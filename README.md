@@ -1,2 +1,2 @@
 # think_python
-refresher
+refresher - adding jupyter files as I work through exercises in each chapter Ive been through
